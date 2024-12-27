@@ -6,8 +6,8 @@
 // @description  Я спи-- позаимствовала у леши код чтобы вставлять шаблоны уроков леша прости
 // @match        http*://*.catwar.net/*
 // @match        http*://*.catwar.su/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/sleepwalkghost/North-Lessons/raw/refs/heads/main/lessons.user.js
+// @downloadURL  https://github.com/sleepwalkghost/North-Lessons/raw/refs/heads/main/lessons.user.js
 
 // ==/UserScript==
 
