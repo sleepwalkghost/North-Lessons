@@ -2,7 +2,7 @@
 // @name         North Lessons
 // @namespace    http://tampermonkey.net/
 // @license MIT
-// @version      2.0
+// @version      1.2
 // @description  Я спи-- позаимствовала у леши код чтобы вставлять шаблоны уроков леша прости
 // @match        http*://*.catwar.net/*
 // @match        http*://*.catwar.su/*
